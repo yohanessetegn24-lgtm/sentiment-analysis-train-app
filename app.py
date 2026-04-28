@@ -17,7 +17,7 @@ st.sidebar.info("""
 **Project:** Sentiment Analysis
 **Languages:** Amharic & English
 **Models Used:** Logistic Regression
-**Developer:** [Your Name]
+**Developer:** [MAU Group One Students]
 """)
 st.sidebar.image("confusion_matrix.png", caption="Model Performance")
 
