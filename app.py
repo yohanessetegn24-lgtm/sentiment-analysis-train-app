@@ -45,4 +45,4 @@ if st.button("Predict Sentiment"):
             st.warning(f"Result: {prediction.upper()} 😐") # Neutral ሲሆን ቢጫ ቀለም ያሳያል
 
 st.markdown("---")
-st.caption("AI Model Trained with Scikit-learn | UI by Streamlit")
+
