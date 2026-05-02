@@ -16,7 +16,7 @@ print("Generating dataset (2100 rows)...")
 # እንግሊዝኛ ቃላት
 pos_en = ["I love this", "Amazing service", "Highly recommended", "Very good", "Excellent", "Best product ever", "Really happy", "Great experience", "Fast delivery", "Superb quality", "Wonderful", "Fantastic", "I'm impressed", "Top notch", "Perfect"]
 neg_en = ["I hate this", "Worst experience", "Very bad", "Don't buy it", "Disappointing", "Waste of money", "Horrible quality", "Not recommended", "Terrible", "Broken item", "Poor service", "Awful", " bad", "Regret buying", "Slow delivery"]
-neu_en = ["It is okay", "It is just a phone", "I am using it", "Normal experience", "It is what it is", "Maybe", "Delivered", "Fine", "Average", "Not bad", "Standard", "As expected", "I have no opinion", "Common", "It works"]
+neu_en = ["okay", "It is just a phone", "I am using it", "Normal experience", "It is what it is", "Maybe", "Delivered", "Fine", "Average", "Not bad", "Standard", "As expected", "I have no opinion", "Common", "It works"]
 
 # አማርኛ ቃላት
 pos_am = ["በጣም ጥሩ ነው", "ደስ ይላል", "ተመችቶኛል", "ድንቅ ስራ", "ጥሩ አገልግሎት", "ቆንጆ ነው", "እጅግ በጣም ደስ የሚል", "ጥራት አለው", "ፈጣን ነው", "ተመራጭ ነው", "እግዚአብሔር ይመስገን ጥሩ ነው", "ደስተኛ ነኝ", "ገንዘቡ ይገባዋል", "ዋው ምርጥ ነው", "ጥሩ ተሞክሮ"]
