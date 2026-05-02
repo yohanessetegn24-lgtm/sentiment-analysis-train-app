@@ -89,5 +89,6 @@ with open("model.pkl", "wb") as f:
 
 with open("vectorizer.pkl", "wb") as f:
     pickle.dump(vectorizer, f)
+     st.write(f"<p style='text-align:center;'>Confidence: {round(score * 100, 2)}%</p>", unsafe_allow_html=True)
 
 print("\n🚀 Success: model.pkl and vectorizer.pkl are ready!")
